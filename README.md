@@ -3,8 +3,6 @@
 ## deployed application url: https://shiva-shiva.github.io/homework01/
 
 
-## Your Task
-
 **Note**: 
 
 Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
@@ -24,9 +22,9 @@ SO THAT our own site is optimized for search engines
 ```
 1-webpage meets accessibility standards.
 2-webpage has a semantic HTML elements.
-3-elements follow a logical structure independent of styling and positioning
-4-image elements has accessible alt attributes
-5-the title element has a concise, descriptive title
+3-elements follow a logical structure independent of styling and positioning.
+4-image elements has accessible alt attributes.
+5-the title element has a concise, descriptive title.
 ```
 
 
